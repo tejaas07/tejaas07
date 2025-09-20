@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @tejaas07
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning React and Express
-- 💞️ I’m looking to collaborate on MERN projects
-- 📫 How to reach me Email me at- ktejas18@gmail.com
+💻 Tejas Kadam
+Full-Stack Developer | Digital Transformation @ FH Dortmund
 
-<!---
-tejaas07/tejaas07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Tejas Kadam, a full-stack developer with a strong foundation in React, TypeScript, Node.js, and MongoDB, combined with hands-on experience in cloud, DevOps, and microservice architectures.
+
+Currently pursuing my Master’s in Digital Transformation at Fachhochschule Dortmund (Germany), I focus on building scalable systems, designing developer-first UIs, and applying modern software engineering practices.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+🔧 Technical Skills
+
+Frontend
+React • Next.js • TypeScript • Redux Toolkit • Tailwind CSS
+
+Backend
+Node.js • Express.js • NestJS • MongoDB Atlas • JWT Authentication
+
+DevOps & Cloud
+Docker • Kubernetes • AWS • Jenkins • Linux • CI/CD Pipelines
+
+Tools
+Git • Figma • SWR • Sanity CMS
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+🌍 Connect with Me
+
+Portfolio: tejaskadam.dev
+LinkedIn: https://www.linkedin.com/in/tejaaskadam/
+Email: ktejas18@gmail.com
